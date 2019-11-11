@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.a9d0e2b9.chunk.css",
-    "main.js": "/static/js/main.427b188b.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.8eea71de.js",
-    "static/js/2.d20f16af.chunk.js": "/static/js/2.d20f16af.chunk.js",
-    "index.html": "/index.html",
-    "precache-manifest.3f67cb2c1fa06939e4d66a91fe646087.js": "/precache-manifest.3f67cb2c1fa06939e4d66a91fe646087.js",
-    "service-worker.js": "/service-worker.js",
-    "static/media/logo.svg": "/static/media/logo.25bf045c.svg"
+    "main.css": "/react-lesson/static/css/main.a9d0e2b9.chunk.css",
+    "main.js": "/react-lesson/static/js/main.956c0ad0.chunk.js",
+    "runtime-main.js": "/react-lesson/static/js/runtime-main.0b023a0d.js",
+    "static/js/2.d20f16af.chunk.js": "/react-lesson/static/js/2.d20f16af.chunk.js",
+    "index.html": "/react-lesson/index.html",
+    "precache-manifest.323997d36eec59ead0105edf1405c4de.js": "/react-lesson/precache-manifest.323997d36eec59ead0105edf1405c4de.js",
+    "service-worker.js": "/react-lesson/service-worker.js",
+    "static/media/logo.svg": "/react-lesson/static/media/logo.25bf045c.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8eea71de.js",
+    "static/js/runtime-main.0b023a0d.js",
     "static/js/2.d20f16af.chunk.js",
     "static/css/main.a9d0e2b9.chunk.css",
-    "static/js/main.427b188b.chunk.js"
+    "static/js/main.956c0ad0.chunk.js"
   ]
 }
