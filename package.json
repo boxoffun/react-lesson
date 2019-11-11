@@ -12,8 +12,11 @@
     "build": "react-scripts build",
     "build-production": "npx cross-env GENERATE_SOURCEMAP=false react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "yarn run build-production",
+    "deploy": "gh-pages -d build"
   },
+  "homepage": "https://boxoffun.github.io/react-lesson/",
   "eslintConfig": {
     "extends": "react-app"
   },
@@ -30,6 +33,7 @@
     ]
   },
   "devDependencies": {
-    "cross-env": "^6.0.3"
+    "cross-env": "^6.0.3",
+    "gh-pages": "^2.1.1"
   }
 }
